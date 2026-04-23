@@ -24,6 +24,10 @@ In-progress, repo is currently private but will be made public once RV32I compli
 ### [32-bit 12 Round Simon Cipher](/32b-12r-simon-cipher/README.md)
 
 ### [VLSI SRAM Column and Row Decoder Design](/sram-col-row-decoder/README.md)
+Part of a final project for EEE5322 - *VLSI Circuits and Technology I*, the goal was to create a 8x2 SRAM Cell Array using a 45nm process node. Final design components consist of SRAM Cell, Sense Amplifier, Row Decoder, Column Decoder, and Tri-state buffer for output. 
+
+**[IMPORT AND EMBED IMAGE]**\
+**Technologies used:** VLSI Design, Cadence Virtuoso, Design Rule Check (DRC), Layout Vs Schematic (LVS)
 
 ### [IoT Gas Detection System](/iot-gas-detection-system/README.md)
 Automatic gas detection system developed as a group for the final project of EEL5739 — *IoT Security and Privacy*. This system incorporates an MQTT broker hosted on AWS to transmit and collect data from ESP32 nodes. Alerts issued on dedicated MQTT channel to allow flexible response implementation.
